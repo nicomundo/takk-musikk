@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/takk-musikk/static/css/main.eca07053.chunk.css",
+    "main.css": "/takk-musikk/static/css/main.b2a39143.chunk.css",
     "main.js": "/takk-musikk/static/js/main.5d9f585d.chunk.js",
     "main.js.map": "/takk-musikk/static/js/main.5d9f585d.chunk.js.map",
     "runtime-main.js": "/takk-musikk/static/js/runtime-main.3cbedafb.js",
@@ -10,14 +10,14 @@
     "static/js/3.8496f79e.chunk.js": "/takk-musikk/static/js/3.8496f79e.chunk.js",
     "static/js/3.8496f79e.chunk.js.map": "/takk-musikk/static/js/3.8496f79e.chunk.js.map",
     "index.html": "/takk-musikk/index.html",
-    "static/css/main.eca07053.chunk.css.map": "/takk-musikk/static/css/main.eca07053.chunk.css.map",
+    "static/css/main.b2a39143.chunk.css.map": "/takk-musikk/static/css/main.b2a39143.chunk.css.map",
     "static/js/2.850e35b1.chunk.js.LICENSE.txt": "/takk-musikk/static/js/2.850e35b1.chunk.js.LICENSE.txt",
     "static/media/app.scss": "/takk-musikk/static/media/bg-image.2e75d2e7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3cbedafb.js",
     "static/js/2.850e35b1.chunk.js",
-    "static/css/main.eca07053.chunk.css",
+    "static/css/main.b2a39143.chunk.css",
     "static/js/main.5d9f585d.chunk.js"
   ]
 }
